@@ -6,7 +6,7 @@ This project processes real-time stock market data using Apache Kafka for stream
 
 ## Architecture
 
-![Architecture Diagram](path/to/your/architecture/image.png)
+![Architecture Diagram](Architecture.png)
 
 1. **Data Ingestion**: Stock market data is ingested using Python scripts with the Boto3 SDK.
 2. **Producer**: The ingested data is fed into a Kafka producer.
